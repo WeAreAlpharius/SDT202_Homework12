@@ -1,0 +1,10 @@
+Programming1 Programming2
+Programming1 DataStructures
+Programming2 ObjectOrientedProgramming
+DataStructures Algorithms
+ObjectOrientedProgramming SoftwareDesign
+Algorithms SoftwareArchitecture
+ObjectOrientedProgramming SoftwareTesting
+SoftwareDesign SoftwareArchitecture
+SoftwareDesign SoftwareDevelopment
+SoftwareTesting SoftwareDevelopment
